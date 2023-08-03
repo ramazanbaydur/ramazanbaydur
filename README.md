@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ramazanbaydur
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔭 Şu anda E-ticaret platformum için Laravel ve React üzerinde çalışıyorum. IoT ile de ilgilenmekteyim.
+👯 IoT tasarımları üzerine işbirliği yapmak istiyorum.
+🤝 Arduino hakkında yardım istiyorum.
+🌱 React, Laravel ve Arduino öğreniyorum.
+💬 Bana isterseni Sorabilirsin.
+⚡ Hız, tutku ve azim
 
 <!---
 ramazanbaydur/ramazanbaydur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
